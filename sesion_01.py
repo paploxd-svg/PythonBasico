@@ -12,3 +12,22 @@ print("============operadores matematicos=========")
 #/
 # **
 # % modulo
+print(int(2**3))
+print(int(4**8))
+print(float(10%2))
+print(float(25%4))
+
+ventas= 199999
+print("nuestras ventas fueron", ventas)
+
+is_active= True
+print(bool(is_active))
+
+game_over= False
+print(game_over)
+
+edad = 12
+if (edad>=18):
+    print("si puedo entrar a el bar!!")
+else:
+    print("no puedo entrar a el bar!!")
